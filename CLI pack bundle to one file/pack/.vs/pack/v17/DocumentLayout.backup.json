@@ -1,14 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\p1\\pack\\",
+  "WorkspaceRootPath": "C:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\CLI pack bundle to one file\\pack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D548F46A-AC79-43CB-B5F8-FB2A37D801C1}|pack\\pack.csproj|c:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\p1\\pack\\pack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D548F46A-AC79-43CB-B5F8-FB2A37D801C1}|pack\\pack.csproj|c:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\cli pack bundle to one file\\pack\\pack\\pack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D548F46A-AC79-43CB-B5F8-FB2A37D801C1}|pack\\pack.csproj|solutionrelative:pack\\pack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D548F46A-AC79-43CB-B5F8-FB2A37D801C1}|pack\\pack.csproj|c:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\cli pack bundle to one file\\pack\\pack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D548F46A-AC79-43CB-B5F8-FB2A37D801C1}|pack\\pack.csproj|solutionrelative:pack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D548F46A-AC79-43CB-B5F8-FB2A37D801C1}|pack\\pack.csproj|c:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\p1\\pack\\pack\\pack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D548F46A-AC79-43CB-B5F8-FB2A37D801C1}|pack\\pack.csproj|solutionrelative:pack\\pack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E8\u05D0\u05E9\u05D5\u05E0\u05D4\\c\\lesson3\\lesson3\\lesson3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,25 +25,38 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "pack.csproj",
-              "DocumentMoniker": "C:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\p1\\pack\\pack\\pack.csproj",
-              "RelativeDocumentMoniker": "pack\\pack.csproj",
-              "ToolTip": "C:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\p1\\pack\\pack\\pack.csproj",
-              "RelativeToolTip": "pack\\pack.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-15T20:00:12.796Z"
+              "DocumentIndex": 2,
+              "Title": "lesson3.c",
+              "DocumentMoniker": "C:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E8\u05D0\u05E9\u05D5\u05E0\u05D4\\c\\lesson3\\lesson3\\lesson3.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u05E9\u05E0\u05D4 \u05E8\u05D0\u05E9\u05D5\u05E0\u05D4\\c\\lesson3\\lesson3\\lesson3.c",
+              "ToolTip": "C:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E8\u05D0\u05E9\u05D5\u05E0\u05D4\\c\\lesson3\\lesson3\\lesson3.c",
+              "RelativeToolTip": "..\\..\\..\\..\\\u05E9\u05E0\u05D4 \u05E8\u05D0\u05E9\u05D5\u05E0\u05D4\\c\\lesson3\\lesson3\\lesson3.c",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-19T01:17:28.9Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "pack.csproj",
+              "DocumentMoniker": "C:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\CLI pack bundle to one file\\pack\\pack\\pack.csproj",
+              "RelativeDocumentMoniker": "pack\\pack.csproj",
+              "ToolTip": "C:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\CLI pack bundle to one file\\pack\\pack\\pack.csproj",
+              "RelativeToolTip": "pack\\pack.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T20:00:12.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\p1\\pack\\pack\\Program.cs",
+              "DocumentMoniker": "C:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\CLI pack bundle to one file\\pack\\pack\\Program.cs",
               "RelativeDocumentMoniker": "pack\\Program.cs",
-              "ToolTip": "C:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\p1\\pack\\pack\\Program.cs*",
+              "ToolTip": "C:\\\u05E9\u05E0\u05D9\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05E9\u05E0\u05D9\u05D4\\practicode\\CLI pack bundle to one file\\pack\\pack\\Program.cs*",
               "RelativeToolTip": "pack\\Program.cs*",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAYwEMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwFwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T19:58:36.604Z",
               "EditorCaption": ""

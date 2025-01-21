@@ -90,7 +90,7 @@ bundlecommand.SetHandler((output, lang, sort, Isnote, author, IsRemove) =>
          .Where(file => !file.Contains(@"\bin\") && !file.Contains(@"\debug\") && !file.Contains(@"\obj\"))
          .ToArray();
         string[] filesLang = languageFiles(allFiles, lang);
-        if (filesLang == null)
+        if (filesLang.Length==0)
         {
             Console.WriteLine("it is not support in this language!");
             return;
@@ -179,7 +179,6 @@ creareRspCommand.SetHandler(() =>
             parameters[count++] = " -a \"" + Console.ReadLine() + "\"";
         }
         File.WriteAllLines("resp.rsp", parameters);
-        Console.WriteLine("now we create a resp file for you:>");
         Console.WriteLine("now run the command pack @resp.rsp");
     }
     catch(Exception e)
@@ -192,5 +191,5 @@ var rootCommand = new RootCommand("root command for pack files cli")
 {
     bundlecommand,creareRspCommand
 };
-rootCommand.InvokeAsync(args);
+await rootCommand.InvokeAsync(args);
 
